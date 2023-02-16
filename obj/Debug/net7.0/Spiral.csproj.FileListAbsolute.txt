@@ -1,0 +1,15 @@
+/home/sneg/Documents/C#/Spiral/bin/Debug/net7.0/Spiral
+/home/sneg/Documents/C#/Spiral/bin/Debug/net7.0/Spiral.deps.json
+/home/sneg/Documents/C#/Spiral/bin/Debug/net7.0/Spiral.runtimeconfig.json
+/home/sneg/Documents/C#/Spiral/bin/Debug/net7.0/Spiral.dll
+/home/sneg/Documents/C#/Spiral/bin/Debug/net7.0/Spiral.pdb
+/home/sneg/Documents/C#/Spiral/obj/Debug/net7.0/Spiral.csproj.AssemblyReference.cache
+/home/sneg/Documents/C#/Spiral/obj/Debug/net7.0/Spiral.GeneratedMSBuildEditorConfig.editorconfig
+/home/sneg/Documents/C#/Spiral/obj/Debug/net7.0/Spiral.AssemblyInfoInputs.cache
+/home/sneg/Documents/C#/Spiral/obj/Debug/net7.0/Spiral.AssemblyInfo.cs
+/home/sneg/Documents/C#/Spiral/obj/Debug/net7.0/Spiral.csproj.CoreCompileInputs.cache
+/home/sneg/Documents/C#/Spiral/obj/Debug/net7.0/Spiral.dll
+/home/sneg/Documents/C#/Spiral/obj/Debug/net7.0/refint/Spiral.dll
+/home/sneg/Documents/C#/Spiral/obj/Debug/net7.0/Spiral.pdb
+/home/sneg/Documents/C#/Spiral/obj/Debug/net7.0/Spiral.genruntimeconfig.cache
+/home/sneg/Documents/C#/Spiral/obj/Debug/net7.0/ref/Spiral.dll
